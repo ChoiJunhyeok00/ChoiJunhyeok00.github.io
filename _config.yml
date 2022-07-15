@@ -29,7 +29,7 @@ links:
   facebook: username
   twitter: username
   email: Choijh@gmail.com
-  github: ChoiJunhyeok00.github.io
+  github: https://github.com/ChoiJunhyeok00
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 about_image: placeholder.jpg
